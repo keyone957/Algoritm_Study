@@ -12,3 +12,18 @@ C:\Users\keyon\OneDrive\Desktop\Algorithm\Algorithm\obj\Debug\net8.0\refint\Algo
 C:\Users\keyon\OneDrive\Desktop\Algorithm\Algorithm\obj\Debug\net8.0\Algorithm.pdb
 C:\Users\keyon\OneDrive\Desktop\Algorithm\Algorithm\obj\Debug\net8.0\Algorithm.genruntimeconfig.cache
 C:\Users\keyon\OneDrive\Desktop\Algorithm\Algorithm\obj\Debug\net8.0\ref\Algorithm.dll
+C:\Users\keyon\OneDrive\Desktop\알고리즘 공부\Algoritm_Study\bin\Debug\net8.0\Algorithm.exe
+C:\Users\keyon\OneDrive\Desktop\알고리즘 공부\Algoritm_Study\bin\Debug\net8.0\Algorithm.deps.json
+C:\Users\keyon\OneDrive\Desktop\알고리즘 공부\Algoritm_Study\bin\Debug\net8.0\Algorithm.runtimeconfig.json
+C:\Users\keyon\OneDrive\Desktop\알고리즘 공부\Algoritm_Study\bin\Debug\net8.0\Algorithm.dll
+C:\Users\keyon\OneDrive\Desktop\알고리즘 공부\Algoritm_Study\bin\Debug\net8.0\Algorithm.pdb
+C:\Users\keyon\OneDrive\Desktop\알고리즘 공부\Algoritm_Study\obj\Debug\net8.0\Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keyon\OneDrive\Desktop\알고리즘 공부\Algoritm_Study\obj\Debug\net8.0\Algorithm.AssemblyInfoInputs.cache
+C:\Users\keyon\OneDrive\Desktop\알고리즘 공부\Algoritm_Study\obj\Debug\net8.0\Algorithm.AssemblyInfo.cs
+C:\Users\keyon\OneDrive\Desktop\알고리즘 공부\Algoritm_Study\obj\Debug\net8.0\Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\keyon\OneDrive\Desktop\알고리즘 공부\Algoritm_Study\obj\Debug\net8.0\Algorithm.sourcelink.json
+C:\Users\keyon\OneDrive\Desktop\알고리즘 공부\Algoritm_Study\obj\Debug\net8.0\Algorithm.dll
+C:\Users\keyon\OneDrive\Desktop\알고리즘 공부\Algoritm_Study\obj\Debug\net8.0\refint\Algorithm.dll
+C:\Users\keyon\OneDrive\Desktop\알고리즘 공부\Algoritm_Study\obj\Debug\net8.0\Algorithm.pdb
+C:\Users\keyon\OneDrive\Desktop\알고리즘 공부\Algoritm_Study\obj\Debug\net8.0\Algorithm.genruntimeconfig.cache
+C:\Users\keyon\OneDrive\Desktop\알고리즘 공부\Algoritm_Study\obj\Debug\net8.0\ref\Algorithm.dll
