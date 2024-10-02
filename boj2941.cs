@@ -2,7 +2,7 @@
 
 namespace Algorithm
 {
-    internal class Program
+    internal class boj2941
     {
         static void Main(string[] args)
         {
