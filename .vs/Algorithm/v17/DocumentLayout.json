@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC54C\uACE0\uB9AC\uC998 \uACF5\uBD80\\Algoritm_Study\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FD39477D-8F24-4F03-A59C-D245261325AB}|Algorithm.csproj|c:\\users\\keyon\\onedrive\\desktop\\\uC54C\uACE0\uB9AC\uC998 \uACF5\uBD80\\algoritm_study\\boj2908.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD39477D-8F24-4F03-A59C-D245261325AB}|Algorithm.csproj|solutionrelative:boj2908.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FD39477D-8F24-4F03-A59C-D245261325AB}|Algorithm.csproj|c:\\users\\keyon\\onedrive\\desktop\\\uC54C\uACE0\uB9AC\uC998 \uACF5\uBD80\\algoritm_study\\boj2941.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD39477D-8F24-4F03-A59C-D245261325AB}|Algorithm.csproj|solutionrelative:boj2941.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "boj2908.cs",
+              "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC54C\uACE0\uB9AC\uC998 \uACF5\uBD80\\Algoritm_Study\\boj2908.cs",
+              "RelativeDocumentMoniker": "boj2908.cs",
+              "ToolTip": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC54C\uACE0\uB9AC\uC998 \uACF5\uBD80\\Algoritm_Study\\boj2908.cs",
+              "RelativeToolTip": "boj2908.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:08:50.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "boj2941.cs",
               "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC54C\uACE0\uB9AC\uC998 \uACF5\uBD80\\Algoritm_Study\\boj2941.cs",
               "RelativeDocumentMoniker": "boj2941.cs",
