@@ -19,3 +19,5 @@ https://www.acmicpc.net/problem/1316<br>
 https://school.programmers.co.kr/learn/courses/30/lessons/1844<br>
 10/29<br>
 https://www.acmicpc.net/problem/1157<br>
+11/01<br>
+https://www.acmicpc.net/problem/2675<br>
