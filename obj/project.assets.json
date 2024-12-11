@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\keyon\\OneDrive\\Desktop\\알고리즘 공부\\Algoritm_Study_csharp\\Algorithm.csproj",
+      "projectUniqueName": "C:\\Users\\keyon\\OneDrive\\Desktop\\잔디심기\\Algoritm_Study_csharp\\Algorithm.csproj",
       "projectName": "Algorithm",
-      "projectPath": "C:\\Users\\keyon\\OneDrive\\Desktop\\알고리즘 공부\\Algoritm_Study_csharp\\Algorithm.csproj",
+      "projectPath": "C:\\Users\\keyon\\OneDrive\\Desktop\\잔디심기\\Algoritm_Study_csharp\\Algorithm.csproj",
       "packagesPath": "C:\\Users\\keyon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\keyon\\OneDrive\\Desktop\\알고리즘 공부\\Algoritm_Study_csharp\\obj\\",
+      "outputPath": "C:\\Users\\keyon\\OneDrive\\Desktop\\잔디심기\\Algoritm_Study_csharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

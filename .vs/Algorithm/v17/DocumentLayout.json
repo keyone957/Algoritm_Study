@@ -1,26 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC54C\uACE0\uB9AC\uC998 \uACF5\uBD80\\Algoritm_Study\\",
+  "WorkspaceRootPath": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algoritm_Study_csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD39477D-8F24-4F03-A59C-D245261325AB}|Algorithm.csproj|c:\\users\\keyon\\onedrive\\desktop\\\uC54C\uACE0\uB9AC\uC998 \uACF5\uBD80\\algoritm_study\\boj1157.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FD39477D-8F24-4F03-A59C-D245261325AB}|Algorithm.csproj|c:\\users\\keyon\\onedrive\\desktop\\\uC794\uB514\uC2EC\uAE30\\algoritm_study_csharp\\boj12605.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD39477D-8F24-4F03-A59C-D245261325AB}|Algorithm.csproj|solutionrelative:boj12605.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD39477D-8F24-4F03-A59C-D245261325AB}|Algorithm.csproj|c:\\users\\keyon\\onedrive\\desktop\\\uC794\uB514\uC2EC\uAE30\\algoritm_study_csharp\\boj1157.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD39477D-8F24-4F03-A59C-D245261325AB}|Algorithm.csproj|solutionrelative:boj1157.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD39477D-8F24-4F03-A59C-D245261325AB}|Algorithm.csproj|c:\\users\\keyon\\onedrive\\desktop\\\uC54C\uACE0\uB9AC\uC998 \uACF5\uBD80\\algoritm_study\\boj1316.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD39477D-8F24-4F03-A59C-D245261325AB}|Algorithm.csproj|solutionrelative:boj1316.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD39477D-8F24-4F03-A59C-D245261325AB}|Algorithm.csproj|c:\\users\\keyon\\onedrive\\desktop\\\uC794\uB514\uC2EC\uAE30\\algoritm_study_csharp\\boj2675.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD39477D-8F24-4F03-A59C-D245261325AB}|Algorithm.csproj|solutionrelative:boj2675.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD39477D-8F24-4F03-A59C-D245261325AB}|Algorithm.csproj|c:\\users\\keyon\\onedrive\\desktop\\\uC54C\uACE0\uB9AC\uC998 \uACF5\uBD80\\algoritm_study\\boj2941.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FD39477D-8F24-4F03-A59C-D245261325AB}|Algorithm.csproj|c:\\users\\keyon\\onedrive\\desktop\\\uC794\uB514\uC2EC\uAE30\\algoritm_study_csharp\\boj2941.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD39477D-8F24-4F03-A59C-D245261325AB}|Algorithm.csproj|solutionrelative:boj2941.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD39477D-8F24-4F03-A59C-D245261325AB}|Algorithm.csproj|c:\\users\\keyon\\onedrive\\desktop\\\uC54C\uACE0\uB9AC\uC998 \uACF5\uBD80\\algoritm_study\\gamemapefindroad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD39477D-8F24-4F03-A59C-D245261325AB}|Algorithm.csproj|solutionrelative:gamemapefindroad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD39477D-8F24-4F03-A59C-D245261325AB}|Algorithm.csproj|c:\\users\\keyon\\onedrive\\desktop\\\uC794\uB514\uC2EC\uAE30\\algoritm_study_csharp\\boj2908.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD39477D-8F24-4F03-A59C-D245261325AB}|Algorithm.csproj|solutionrelative:boj2908.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD39477D-8F24-4F03-A59C-D245261325AB}|Algorithm.csproj|c:\\users\\keyon\\onedrive\\desktop\\\uC54C\uACE0\uB9AC\uC998 \uACF5\uBD80\\algoritm_study\\boj2908.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD39477D-8F24-4F03-A59C-D245261325AB}|Algorithm.csproj|solutionrelative:boj2908.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD39477D-8F24-4F03-A59C-D245261325AB}|Algorithm.csproj|c:\\users\\keyon\\onedrive\\desktop\\\uC794\uB514\uC2EC\uAE30\\algoritm_study_csharp\\boj1316.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD39477D-8F24-4F03-A59C-D245261325AB}|Algorithm.csproj|solutionrelative:boj1316.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD39477D-8F24-4F03-A59C-D245261325AB}|Algorithm.csproj|c:\\users\\keyon\\onedrive\\desktop\\\uC794\uB514\uC2EC\uAE30\\algoritm_study_csharp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{FD39477D-8F24-4F03-A59C-D245261325AB}|Algorithm.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD39477D-8F24-4F03-A59C-D245261325AB}|Algorithm.csproj|c:\\users\\keyon\\onedrive\\desktop\\\uC794\uB514\uC2EC\uAE30\\algoritm_study_csharp\\gamemapefindroad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD39477D-8F24-4F03-A59C-D245261325AB}|Algorithm.csproj|solutionrelative:gamemapefindroad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,23 +47,62 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "boj12605.cs",
+              "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algoritm_Study_csharp\\boj12605.cs",
+              "RelativeDocumentMoniker": "boj12605.cs",
+              "ToolTip": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algoritm_Study_csharp\\boj12605.cs",
+              "RelativeToolTip": "boj12605.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA0wBYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:55:05.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algoritm_Study_csharp\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algoritm_Study_csharp\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-11-01T13:06:40.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "boj2675.cs",
+              "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algoritm_Study_csharp\\boj2675.cs",
+              "RelativeDocumentMoniker": "boj2675.cs",
+              "ToolTip": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algoritm_Study_csharp\\boj2675.cs",
+              "RelativeToolTip": "boj2675.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:06:32.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "boj1157.cs",
-              "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC54C\uACE0\uB9AC\uC998 \uACF5\uBD80\\Algoritm_Study\\boj1157.cs",
+              "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algoritm_Study_csharp\\boj1157.cs",
               "RelativeDocumentMoniker": "boj1157.cs",
-              "ToolTip": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC54C\uACE0\uB9AC\uC998 \uACF5\uBD80\\Algoritm_Study\\boj1157.cs",
+              "ToolTip": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algoritm_Study_csharp\\boj1157.cs",
               "RelativeToolTip": "boj1157.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T14:53:07.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "GameMapeFindRoad.cs",
-              "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC54C\uACE0\uB9AC\uC998 \uACF5\uBD80\\Algoritm_Study\\GameMapeFindRoad.cs",
+              "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algoritm_Study_csharp\\GameMapeFindRoad.cs",
               "RelativeDocumentMoniker": "GameMapeFindRoad.cs",
-              "ToolTip": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC54C\uACE0\uB9AC\uC998 \uACF5\uBD80\\Algoritm_Study\\GameMapeFindRoad.cs",
+              "ToolTip": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algoritm_Study_csharp\\GameMapeFindRoad.cs",
               "RelativeToolTip": "GameMapeFindRoad.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -59,39 +110,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "boj1316.cs",
-              "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC54C\uACE0\uB9AC\uC998 \uACF5\uBD80\\Algoritm_Study\\boj1316.cs",
+              "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algoritm_Study_csharp\\boj1316.cs",
               "RelativeDocumentMoniker": "boj1316.cs",
-              "ToolTip": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC54C\uACE0\uB9AC\uC998 \uACF5\uBD80\\Algoritm_Study\\boj1316.cs",
+              "ToolTip": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algoritm_Study_csharp\\boj1316.cs",
               "RelativeToolTip": "boj1316.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAjAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T08:01:30.447Z"
+              "WhenOpened": "2024-10-15T08:01:30.447Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "boj2908.cs",
-              "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC54C\uACE0\uB9AC\uC998 \uACF5\uBD80\\Algoritm_Study\\boj2908.cs",
+              "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algoritm_Study_csharp\\boj2908.cs",
               "RelativeDocumentMoniker": "boj2908.cs",
-              "ToolTip": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC54C\uACE0\uB9AC\uC998 \uACF5\uBD80\\Algoritm_Study\\boj2908.cs",
+              "ToolTip": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algoritm_Study_csharp\\boj2908.cs",
               "RelativeToolTip": "boj2908.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAwwBIAAAAmAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAwwBIAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T11:08:50.952Z"
+              "WhenOpened": "2024-10-14T11:08:50.952Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "boj2941.cs",
-              "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC54C\uACE0\uB9AC\uC998 \uACF5\uBD80\\Algoritm_Study\\boj2941.cs",
+              "DocumentMoniker": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algoritm_Study_csharp\\boj2941.cs",
               "RelativeDocumentMoniker": "boj2941.cs",
-              "ToolTip": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC54C\uACE0\uB9AC\uC998 \uACF5\uBD80\\Algoritm_Study\\boj2941.cs",
+              "ToolTip": "C:\\Users\\keyon\\OneDrive\\Desktop\\\uC794\uB514\uC2EC\uAE30\\Algoritm_Study_csharp\\boj2941.cs",
               "RelativeToolTip": "boj2941.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T05:39:28.324Z"
+              "WhenOpened": "2024-06-30T05:39:28.324Z",
+              "EditorCaption": ""
             }
           ]
         }

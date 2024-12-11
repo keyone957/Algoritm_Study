@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Algorithm
-build_property.ProjectDir = C:\Users\keyon\OneDrive\Desktop\알고리즘 공부\Algoritm_Study_csharp\
+build_property.ProjectDir = C:\Users\keyon\OneDrive\Desktop\잔디심기\Algoritm_Study_csharp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
